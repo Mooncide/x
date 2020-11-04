@@ -1,4 +1,4 @@
-package main
+package x
 
 //IMP : rs of import files
 type IMP struct {
@@ -9,9 +9,10 @@ type IMP struct {
 	code    int
 }
 
+/*
 func init() {
 	W("b inited.")
-}
+}*/
 
 var rb IMP
 

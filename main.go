@@ -1,9 +1,9 @@
-package main
+package x
 
 import (
 	f "fmt"
 )
 
-func main() {
+func xmain() {
 	f.Println("Oh..")
 }

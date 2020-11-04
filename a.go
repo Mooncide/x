@@ -1,4 +1,4 @@
-package main
+package x
 
 import (
 	f "fmt"
@@ -13,9 +13,10 @@ type RSP struct {
 
 var r RSP
 
+/*
 func init() {
 	W("a inited.")
-}
+}*/
 
 // W rite something
 func W(a ...string) {
